@@ -1,4 +1,2 @@
-This is a demo Repository
-
-
-This is second demo line 
+This is a demo Repositry
+This is second demo line
